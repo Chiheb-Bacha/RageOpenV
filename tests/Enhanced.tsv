@@ -1,0 +1,14 @@
+FileReadHooks.cpp-1	41 56 56 57 53 48 81 ec ? ? ? ? 4c 89 c7 66 c7 ? ? ? ? ? 4c 8d 74 24	
+FileReadHooks.cpp-2	66 c7 01 ? ? 29 d9 d1 e9 66 89 4c 24 ? 31 ff 4c 8d 44 ? ? 48 89 d9 31 d2 ff 15 ? ? ? ? 85 c0	-0x10d
+FileReadHooks.cpp-3	66 c7 01 ? ? 29 d9 d1 e9 66 89 4c 24 ? 31 ff 4c 8d 44 24 ? 48 89 d9 31 d2 ff 15 ? ? ? ? 8b 4c 24	-0x10d
+FileReadHooks.cpp-4	41 56 56 57 53 48 81 ec ? ? ? ? 66 c7 ? ? ? ? ? 4c 8d 74 24	
+FileReadHooks.cpp-5	41 57 41 56 56 57 53 48 81 ec 60 02 00 00 48 89 d3 48 89 cf	
+FileReadHooks.cpp-6	66 c7 01 00 00 29 d9 d1 e9 66 89 4c 24 70 4c 8d 44 24 48 48 89 d9 31 d2 ff 15 ? ? ? ? 85 c0 74 14 8b 44 24 64 8b 4c 24 68 48 c1 e0 20 48 09 c1 48 89 4c 24 38	-0x15d
+FileReadHooks.cpp-7	66 c7 01 00 00 29 d9 d1 e9 66 89 4c 24 70 4c 8d 44 24 48 48 89 d9 31 d2 ff 15 ? ? ? ? 85 c0 74 0a 48 8b 44 24 5c 48 89 44 24 38	-0x15d
+FileReadHooks.cpp-8	56 57 53 48 81 ec 60 02 00 00 48 89 d7 48 89 ce c7 44 24 3c ff ff ff ff 48 89 d1 ba 3a 00 00 00	
+PackfileEncryptionHooks.cpp-1	e8 ? ? ? ? 80 7c 24 2e ? 74 ? 48 8b 56	0
+PackfileEncryptionHooks.cpp-2	e8 ? ? ? ? 8b 46 ? 85 c0 74 ? b9	0
+PackfileEncryptionHooks.cpp-3	e8 ? ? ? ? 48 8b 46 ? 66 c7 00 00 ? eb	0
+PackfileEncryptionHooks.cpp-4	e8 ? ? ? ? 48 8b 46 ? 8b 4c 24 ? 48 8d 14 08	0
+PackfileEncryptionHooks.cpp-5	c6 86 ? ? ? ? ? 48 89 f1 4c 89 fa 45 89 f0 45 31 c9	19
+cache	E8 ? ? ? ? 48 8D 0D ? ? ? ? 48 8D 15 ? ? ? ? 48 8D 35	0
